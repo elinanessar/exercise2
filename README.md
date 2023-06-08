@@ -1,3 +1,3 @@
 # exercise2
 iat339 gitkraken exercise
-s
+this is a message to check the changes in gitkraken.
